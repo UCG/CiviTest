@@ -1,0 +1,7 @@
+Sep 02 15:27:39  [warning] Deprecated join alias 'contact' used in APIv4 get. Should be changed to 'contact_id' Caller: Civi\Api4\Query\Api4SelectQuery::autoJoinFK
+Array
+(
+    [civi.tag] => deprecated
+)
+
+

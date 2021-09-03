@@ -1,0 +1,1280 @@
+Aug 23 19:32:02  [info] Creating canary table
+
+Aug 23 20:30:44  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:30:44  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:32:50  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:32:50  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:32:58  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:42:38  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:42:38  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:42:45  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:44:19  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:44:20  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:44:20  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:44:25  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:44:34  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:44:46  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:44:50  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:45:07  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:45:11  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:45:15  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:45:40  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:45:44  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:45:48  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:45:57  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:45:57  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:45:57  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:17  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:20  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:28  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:28  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:28  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:32  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:32  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:34  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:36  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:40  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:46:40  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:47:37  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:47:37  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:47:38  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:47:42  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:47:42  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:47:56  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:06  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:06  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:06  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:10  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:16  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:19  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:28  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:29  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:29  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:29  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:32  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:34  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:37  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:41  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:46  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:46  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:46  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:49  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:50  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:48:54  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:49:04  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:49:25  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:49:25  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:49:25  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:49:29  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:49:29  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:49:31  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:49:31  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:49:31  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:50:31  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:50:31  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:50:48  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:50:48  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:50:51  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:50:51  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:50:51  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:53:21  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:53:21  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:53:23  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:53:23  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:53:23  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:53:28  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:53:36  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 23 20:53:36  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:23:49  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:23:49  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:23:49  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:24:05  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:24:05  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:24:15  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:56:28  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:56:28  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:56:28  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:58:52  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:58:52  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:58:54  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:58:54  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 15:58:54  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 16:14:34  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 17:17:26  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 17:17:26  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 17:17:31  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 17:29:12  [warning] Deprecated join alias 'contact' used in APIv4 get. Should be changed to 'contact_id' Caller: Civi\Api4\Query\Api4SelectQuery::autoJoinFK
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 17:51:28  [warning] Deprecated join alias 'contact' used in APIv4 get. Should be changed to 'contact_id' Caller: Civi\Api4\Query\Api4SelectQuery::autoJoinFK
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 17:53:02  [warning] Deprecated join alias 'contact' used in APIv4 get. Should be changed to 'contact_id' Caller: Civi\Api4\Query\Api4SelectQuery::autoJoinFK
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 17:53:08  [warning] Deprecated join alias 'contact' used in APIv4 get. Should be changed to 'contact_id' Caller: Civi\Api4\Query\Api4SelectQuery::autoJoinFK
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 17:53:14  [warning] Deprecated join alias 'contact' used in APIv4 get. Should be changed to 'contact_id' Caller: Civi\Api4\Query\Api4SelectQuery::autoJoinFK
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 17:53:20  [warning] Deprecated join alias 'contact' used in APIv4 get. Should be changed to 'contact_id' Caller: Civi\Api4\Query\Api4SelectQuery::autoJoinFK
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 20:57:11  [warning] Deprecated join alias 'contact' used in APIv4 get. Should be changed to 'contact_id' Caller: Civi\Api4\Query\Api4SelectQuery::autoJoinFK
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:26:52  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:26:52  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:27:00  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:28:55  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:28:55  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:29:02  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:30:33  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:30:33  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:32:32  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:32:32  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:32:32  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:32:52  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:32:52  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:32:59  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:36:42  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:36:42  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:36:49  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:39:52  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:39:52  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:41:48  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:41:48  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:41:48  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:43:23  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:43:23  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:43:23  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:45:52  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:45:52  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:45:52  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:47:05  [warning] Deprecated join alias 'contact' used in APIv4 get. Should be changed to 'contact_id' Caller: Civi\Api4\Query\Api4SelectQuery::autoJoinFK
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:48:34  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:48:34  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:48:42  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:53:14  [warning] Deprecated join alias 'contact' used in APIv4 get. Should be changed to 'contact_id' Caller: Civi\Api4\Query\Api4SelectQuery::autoJoinFK
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:53:43  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:53:43  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:53:51  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:54:03  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:54:03  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:54:12  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:54:12  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 24 21:54:12  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 25 16:01:02  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 25 16:01:02  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 25 16:01:07  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 25 16:27:14  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 25 20:38:52  [warning] Deprecated function Civi\Angular\AngularLoader::setModules, use addModules.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 25 20:38:52  [warning] Deprecated function Civi\Angular\AngularLoader::load, use angularjs.loader service.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 25 20:38:56  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 25 20:38:56  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 25 20:38:56  [warning] Deprecated function CRM_Core_OptionGroup::getValue, use CRM_Core_PseudoConstant::getKey.
+Array
+(
+    [civi.tag] => deprecated
+)
+
+
+Aug 25 21:13:16  [error] 
+$Fatal Error Details = array:3 [
+  "message" => "This page does not have any price fields configured or you may not have permission for them. Please contact the site administrator for more details."
+  "code" => null
+  "exception" => CRM_Core_Exception {#1528
+    -errorData: array:1 [
+      "error_code" => 0
+    ]
+    #cause: null
+    -_trace: null
+    #message: "This page does not have any price fields configured or you may not have permission for them. Please contact the site administrator for more details."
+    #code: 0
+    #file: "/var/www/html/vendor/civicrm/civicrm-core/CRM/Contribute/Form/Contribution/Main.php"
+    #line: 457
+    trace: {
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Contribute/Form/Contribution/Main.php:457 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Form.php:642 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/QuickForm/Action/Display.php:76 { …}
+      /var/www/html/vendor/civicrm/civicrm-packages/HTML/QuickForm/Controller.php:203 { …}
+      /var/www/html/vendor/civicrm/civicrm-packages/HTML/QuickForm/Page.php:103 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Controller.php:352 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Invoke.php:313 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Invoke.php:69 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Invoke.php:36 { …}
+      /var/www/html/web/modules/contrib/civicrm/src/Civicrm.php:88 {
+        Drupal\civicrm\Civicrm->invoke($args)
+        › ob_start();
+        › $content = \CRM_Core_Invoke::invoke($args);
+        › $output = ob_get_clean();
+        arguments: {
+          $args: array:3 [ …3]
+        }
+      }
+      /var/www/html/web/modules/contrib/civicrm/src/Controller/CivicrmController.php:80 { …}
+      Drupal\civicrm\Controller\CivicrmController->main() {}
+      /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php:123 { …}
+      /var/www/html/web/core/lib/Drupal/Core/Render/Renderer.php:578 { …}
+      /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php:124 { …}
+      /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php:97 { …}
+      /var/www/html/vendor/symfony/http-kernel/HttpKernel.php:158 { …}
+      /var/www/html/vendor/symfony/http-kernel/HttpKernel.php:80 { …}
+      /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/Session.php:57 { …}
+      /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php:47 { …}
+      /var/www/html/web/core/modules/page_cache/src/StackMiddleware/PageCache.php:106 { …}
+      /var/www/html/web/core/modules/page_cache/src/StackMiddleware/PageCache.php:85 { …}
+      /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php:47 { …}
+      /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php:52 { …}
+      /var/www/html/vendor/stack/builder/src/Stack/StackedHttpKernel.php:23 { …}
+      /var/www/html/web/core/lib/Drupal/Core/DrupalKernel.php:717 { …}
+      /var/www/html/web/index.php:19 { …}
+    }
+  }
+]
+
+
+Aug 25 21:13:16  [debug] $backTrace = #0 /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Error.php(433): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Invoke.php(39): CRM_Core_Error::handleUnhandledException(Object(CRM_Core_Exception))
+#2 /var/www/html/web/modules/contrib/civicrm/src/Civicrm.php(88): CRM_Core_Invoke::invoke((Array:3))
+#3 /var/www/html/web/modules/contrib/civicrm/src/Controller/CivicrmController.php(80): Drupal\civicrm\Civicrm->invoke((Array:3))
+#4 [internal function](): Drupal\civicrm\Controller\CivicrmController->main((Array:3), "")
+#5 /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(123): call_user_func_array((Array:2), (Array:2))
+#6 /var/www/html/web/core/lib/Drupal/Core/Render/Renderer.php(578): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#7 /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(124): Drupal\Core\Render\Renderer->executeInRenderContext(Object(Drupal\Core\Render\RenderContext), Object(Closure))
+#8 /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(97): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->wrapControllerExecutionInRenderContext((Array:2), (Array:2))
+#9 /var/www/html/vendor/symfony/http-kernel/HttpKernel.php(158): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#10 /var/www/html/vendor/symfony/http-kernel/HttpKernel.php(80): Symfony\Component\HttpKernel\HttpKernel->handleRaw(Object(Symfony\Component\HttpFoundation\Request), 1)
+#11 /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/Session.php(57): Symfony\Component\HttpKernel\HttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#12 /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php(47): Drupal\Core\StackMiddleware\Session->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#13 /var/www/html/web/core/modules/page_cache/src/StackMiddleware/PageCache.php(106): Drupal\Core\StackMiddleware\KernelPreHandle->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#14 /var/www/html/web/core/modules/page_cache/src/StackMiddleware/PageCache.php(85): Drupal\page_cache\StackMiddleware\PageCache->pass(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#15 /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php(47): Drupal\page_cache\StackMiddleware\PageCache->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#16 /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php(52): Drupal\Core\StackMiddleware\ReverseProxyMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#17 /var/www/html/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Drupal\Core\StackMiddleware\NegotiationMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#18 /var/www/html/web/core/lib/Drupal/Core/DrupalKernel.php(717): Stack\StackedHttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#19 /var/www/html/web/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#20 {main}
+
+
+Aug 25 21:14:19  [error] 
+$Fatal Error Details = array:3 [
+  "message" => "This page does not have any price fields configured or you may not have permission for them. Please contact the site administrator for more details."
+  "code" => null
+  "exception" => CRM_Core_Exception {#1529
+    -errorData: array:1 [
+      "error_code" => 0
+    ]
+    #cause: null
+    -_trace: null
+    #message: "This page does not have any price fields configured or you may not have permission for them. Please contact the site administrator for more details."
+    #code: 0
+    #file: "/var/www/html/vendor/civicrm/civicrm-core/CRM/Contribute/Form/Contribution/Main.php"
+    #line: 457
+    trace: {
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Contribute/Form/Contribution/Main.php:457 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Form.php:642 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/QuickForm/Action/Display.php:76 { …}
+      /var/www/html/vendor/civicrm/civicrm-packages/HTML/QuickForm/Controller.php:203 { …}
+      /var/www/html/vendor/civicrm/civicrm-packages/HTML/QuickForm/Page.php:103 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Controller.php:352 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Invoke.php:313 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Invoke.php:69 { …}
+      /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Invoke.php:36 { …}
+      /var/www/html/web/modules/contrib/civicrm/src/Civicrm.php:88 {
+        Drupal\civicrm\Civicrm->invoke($args)
+        › ob_start();
+        › $content = \CRM_Core_Invoke::invoke($args);
+        › $output = ob_get_clean();
+        arguments: {
+          $args: array:3 [ …3]
+        }
+      }
+      /var/www/html/web/modules/contrib/civicrm/src/Controller/CivicrmController.php:80 { …}
+      Drupal\civicrm\Controller\CivicrmController->main() {}
+      /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php:123 { …}
+      /var/www/html/web/core/lib/Drupal/Core/Render/Renderer.php:578 { …}
+      /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php:124 { …}
+      /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php:97 { …}
+      /var/www/html/vendor/symfony/http-kernel/HttpKernel.php:158 { …}
+      /var/www/html/vendor/symfony/http-kernel/HttpKernel.php:80 { …}
+      /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/Session.php:57 { …}
+      /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php:47 { …}
+      /var/www/html/web/core/modules/page_cache/src/StackMiddleware/PageCache.php:106 { …}
+      /var/www/html/web/core/modules/page_cache/src/StackMiddleware/PageCache.php:85 { …}
+      /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php:47 { …}
+      /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php:52 { …}
+      /var/www/html/vendor/stack/builder/src/Stack/StackedHttpKernel.php:23 { …}
+      /var/www/html/web/core/lib/Drupal/Core/DrupalKernel.php:717 { …}
+      /var/www/html/web/index.php:19 { …}
+    }
+  }
+]
+
+
+Aug 25 21:14:19  [debug] $backTrace = #0 /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Error.php(433): CRM_Core_Error::backtrace("backTrace", TRUE)
+#1 /var/www/html/vendor/civicrm/civicrm-core/CRM/Core/Invoke.php(39): CRM_Core_Error::handleUnhandledException(Object(CRM_Core_Exception))
+#2 /var/www/html/web/modules/contrib/civicrm/src/Civicrm.php(88): CRM_Core_Invoke::invoke((Array:3))
+#3 /var/www/html/web/modules/contrib/civicrm/src/Controller/CivicrmController.php(80): Drupal\civicrm\Civicrm->invoke((Array:3))
+#4 [internal function](): Drupal\civicrm\Controller\CivicrmController->main((Array:3), "")
+#5 /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(123): call_user_func_array((Array:2), (Array:2))
+#6 /var/www/html/web/core/lib/Drupal/Core/Render/Renderer.php(578): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#7 /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(124): Drupal\Core\Render\Renderer->executeInRenderContext(Object(Drupal\Core\Render\RenderContext), Object(Closure))
+#8 /var/www/html/web/core/lib/Drupal/Core/EventSubscriber/EarlyRenderingControllerWrapperSubscriber.php(97): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->wrapControllerExecutionInRenderContext((Array:2), (Array:2))
+#9 /var/www/html/vendor/symfony/http-kernel/HttpKernel.php(158): Drupal\Core\EventSubscriber\EarlyRenderingControllerWrapperSubscriber->Drupal\Core\EventSubscriber\{closure}()
+#10 /var/www/html/vendor/symfony/http-kernel/HttpKernel.php(80): Symfony\Component\HttpKernel\HttpKernel->handleRaw(Object(Symfony\Component\HttpFoundation\Request), 1)
+#11 /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/Session.php(57): Symfony\Component\HttpKernel\HttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#12 /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/KernelPreHandle.php(47): Drupal\Core\StackMiddleware\Session->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#13 /var/www/html/web/core/modules/page_cache/src/StackMiddleware/PageCache.php(106): Drupal\Core\StackMiddleware\KernelPreHandle->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#14 /var/www/html/web/core/modules/page_cache/src/StackMiddleware/PageCache.php(85): Drupal\page_cache\StackMiddleware\PageCache->pass(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#15 /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/ReverseProxyMiddleware.php(47): Drupal\page_cache\StackMiddleware\PageCache->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#16 /var/www/html/web/core/lib/Drupal/Core/StackMiddleware/NegotiationMiddleware.php(52): Drupal\Core\StackMiddleware\ReverseProxyMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#17 /var/www/html/vendor/stack/builder/src/Stack/StackedHttpKernel.php(23): Drupal\Core\StackMiddleware\NegotiationMiddleware->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#18 /var/www/html/web/core/lib/Drupal/Core/DrupalKernel.php(717): Stack\StackedHttpKernel->handle(Object(Symfony\Component\HttpFoundation\Request), 1, TRUE)
+#19 /var/www/html/web/index.php(19): Drupal\Core\DrupalKernel->handle(Object(Symfony\Component\HttpFoundation\Request))
+#20 {main}
+
+
+Aug 25 21:23:41  [info] Contribution 1 updated successfully
+
